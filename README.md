@@ -8,7 +8,7 @@ It also shows my effort in preparing for the [PL-300 Microsoft Certification Exa
 
 ## Skills
 - Microsoft Excel
-- Microsoft Power Bi
+- Microsoft Power BI
 - SQL
 
 ## Table of Contents
