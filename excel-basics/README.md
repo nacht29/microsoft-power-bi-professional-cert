@@ -1,0 +1,13 @@
+# Excel Basics
+
+This directory contains study notes and project showcases concerning the basics of utilising **Microsoft Excel**, especially to prepare data for visualisation in **Microsoft Power BI**.
+
+## Skills
+- Workbook and worksheet management
+- Data sorting and filtering
+- Application of formula and functions in Microsoft Excel
+- Data cleaning and standardisation in Microsoft Excel
+
+### Highlights
+
+**[#Case Study - Revenue Figures](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics/formula/Revenue_Figures)**
