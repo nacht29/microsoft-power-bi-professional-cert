@@ -20,7 +20,7 @@
 
 - Use ````=MIN(C4:C33)```` and ````=MAX(C4:C33)```` to find the minimum and maximum sales in the month.
 
-- Use ````=COUNTA(B4:B33)```` to calculate the number of non-numeric entries in the ````Days```` column. It is important to use ````COUNTA```` instead of ````COUNT```` because ````COUNT```` only takes into account numeric entries, hence none of the date entries will be recorded and ````Days In Month```` will be 0.
+- Use ````=COUNTA(B4:B33)```` to calculate the number of entries in the ````Days```` column. It is important to use ````COUNTA```` instead of ````COUNT```` because ````COUNT```` only takes into account numeric entries, hence none of the date entries will be recorded and ````Days In Month```` will be 0.
 
 - Use ````=AVERAGE(E4:E33)```` to calculate the average value from te ````Total```` column to obtain the daily revenue in the month.
 
