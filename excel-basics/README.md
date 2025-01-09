@@ -10,4 +10,5 @@ This directory contains study notes and project showcases concerning the basics 
 
 ### Highlights
 
-**[#Case Study - Revenue Figures](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics/formula/Revenue_Figures)**
+- **[#Case Study - Revenue Figures](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics/formula/Revenue_Figures)**
+- **[#Case Study - Monthly Sales Report](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics/formula-functions/Monthly_Sales)**
