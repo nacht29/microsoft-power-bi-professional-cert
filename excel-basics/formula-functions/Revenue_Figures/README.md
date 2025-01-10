@@ -3,7 +3,7 @@
 ## 📚 Table of Contents
 - [Task Summary](#task-summary)
 - [Output](#output)
-- [Solution](#solutions)
+- [Solution](#solution)
 
 ### Task Summary
 - Aimee at Adventure Works has asked you to help her prepare an Excel file that she will present at a management team financial review meeting. - The worksheet tracks the items sold by one of Adventure Work’s divisions.
