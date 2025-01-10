@@ -5,6 +5,12 @@
 - [Output](#output)
 - [Solution](#solutions)
 
+### Task Summary
+- Create an Excel worksheet that tracks the sales results for one of Adventure Works' most popular products, the A2Mountain Bike Frame.
+
+#### Skills:
+- Excel functions and formula
+
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/73d0f3b7-7a69-4cdb-ace2-f7e70ed7ec75)

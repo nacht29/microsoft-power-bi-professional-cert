@@ -6,14 +6,14 @@
 - [Solution](#solutions)
 
 ### Task Summary
-Aimee at Adventure Works has asked you to help her prepare an Excel file that she will present at a management team financial review meeting. The worksheet tracks the items sold by one of Adventure Work’s divisions. The file needs to contain results such as costs, revenue, and profit. Your task is to create the formulas and calculations for this sheet.
+- Aimee at Adventure Works has asked you to help her prepare an Excel file that she will present at a management team financial review meeting. - The worksheet tracks the items sold by one of Adventure Work’s divisions.
+- The file needs to contain results such as costs, revenue, and profit. Your task is to create the formulas and calculations for this sheet.
+
+#### Skills:
+- Excel functions and formula
 
 ### Output
 
-#### Original Data:
-![image](https://github.com/user-attachments/assets/11327420-e4c5-4101-af91-98a7b2c194ed)
-
-#### Final result:
 ![image](https://github.com/user-attachments/assets/e512ec42-a7a1-4959-bd25-b7313c780772)
 
 ### Solution
