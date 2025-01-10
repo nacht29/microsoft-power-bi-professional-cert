@@ -1,5 +1,4 @@
-# Case Study - Revenue Figures
-
+# Case Study - Reseller Information
 ## 📚 Table of Contents
 - [Task Summary](#task-summary)
 - [Output](#output)
@@ -18,6 +17,8 @@
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/9df28cd0-74ba-4126-85fe-f21fef05d27d)
+
+### Solution
 
 **Steps:**
 - Use ````=TRIM(B2)```` in ````C2```` to trim empty spaces in the reseller's name. Use auto-fill to complete the  ````Reseller Name```` column.
