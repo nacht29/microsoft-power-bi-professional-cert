@@ -3,7 +3,7 @@
 ## 📚 Table of Contents
 - [Task Summary](#task-summary)
 - [Output](#output)
-- [Solution](#solutions)
+- [Solution](#solution)
 
 ### Task Summary
 - Update a spreadsheet called ````Reseller Details```` that records details of Adventure Work’s resellers in the United States.
