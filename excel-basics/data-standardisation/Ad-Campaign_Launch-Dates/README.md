@@ -14,7 +14,7 @@ Include the following information:
 - The month and year when each campaign will launch.
 - The number of calendar days to the deadline date for each campaign.
 
-#### Skills:
+### Skills
 - Data standardisation
 - DATETIME Function
 
