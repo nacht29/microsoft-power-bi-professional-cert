@@ -6,12 +6,12 @@ It is my first step in harnessing the neccessary skills to venture into the fiel
 
 It also shows my effort in preparing for the [PL-300 Microsoft Certification Exam](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification).
 
-## Skills
+## 📊 Skills
 - Microsoft Excel
 - Microsoft Power BI
 - SQL
 
-## Table of Contents
+## 📚 Table of Contents
 
 ### [Excel Basics](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics)
 

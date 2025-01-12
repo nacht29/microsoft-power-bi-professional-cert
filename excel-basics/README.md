@@ -2,7 +2,7 @@
 
 This directory contains study notes and project showcases concerning the basics of utilising **Microsoft Excel**, especially to prepare data for visualisation in **Microsoft Power BI**.
 
-## Skills
+## 📊 Skills
 - Workbook and worksheet management
 - Data sorting and filtering
 - Application of formula and functions in Microsoft Excel
