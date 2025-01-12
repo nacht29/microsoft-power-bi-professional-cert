@@ -1,5 +1,4 @@
-# Case Study - Reseller Information
-
+# Case Study - Advertising Campaign Launch Date
 ## 📚 Table of Contents
 - [Task Summary](#task-summary)
 - [Output](#output)
@@ -45,5 +44,4 @@ Include the following information:
 
     - Use ```S=NETWORKDAY($B$1,D5,$J$5:$J$26)``` on ```F5``` to calculate the number of working days from the current date to the launch date. the ```NETWORKDAY``` function excludes holidays listed in ```J5:J26``` and also weekends. Note the absolute cell reference ```$J$5:$J$26``` to keep the holiday dates constant in the calculations.
 
-
-#### Feel free to download the Excel file, ````Case Study - Reseller Information```` for a better view of the end result.
+#### Feel free to download the Excel file, ````Case Study - Advertising Campaign USA Dates.xlsx```` for a better view of the end result.
