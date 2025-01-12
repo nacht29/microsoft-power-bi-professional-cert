@@ -11,7 +11,7 @@
 - These errors include unnecessary spaces, the use of the wrong case, and entries that need to be joined together or split apart.
 -  Standardise the data so that it can be used for analysis.
 
-#### Skills:
+### Skills
 - Excel functions and formula
 - Data standardisation
 
