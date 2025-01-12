@@ -1,4 +1,5 @@
 # Case Study - Reseller Information
+
 ## 📚 Table of Contents
 - [Task Summary](#task-summary)
 - [Output](#output)
