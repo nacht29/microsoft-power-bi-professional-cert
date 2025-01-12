@@ -1,9 +1,13 @@
 # Case Study - Monthly Sales Report
 
 ## 📚 Table of Contents
+- [Back to Excel Basics](#back-to-excel-basics)
 - [Task Summary](#task-summary)
 - [Output](#output)
 - [Solution](#solution)
+
+### Back to Excel Basics:
+- Click to go **[back to Excel Basics](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics)**
 
 ### Task Summary
 - Create an Excel worksheet that tracks the sales results for one of Adventure Works' most popular products, the A2Mountain Bike Frame.
