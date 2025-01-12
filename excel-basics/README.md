@@ -8,7 +8,7 @@ This directory contains study notes and project showcases concerning the basics 
 - Application of formula and functions in Microsoft Excel
 - Data cleaning and standardisation in Microsoft Excel
 
-## Highlights
+## ‼️Highlights
 
 - **[#Case Study - Revenue Figures](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics/formula-functions/Revenue_Figures)**
 - **[#Case Study - Monthly Sales Report](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics/formula-functions/Monthly_Sales)**
