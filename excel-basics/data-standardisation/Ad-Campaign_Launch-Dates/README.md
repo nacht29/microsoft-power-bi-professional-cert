@@ -1,8 +1,13 @@
 # Case Study - Advertising Campaign Launch Date
+
 ## 📚 Table of Contents
+- [Back to Excel Basics](#back-to-excel-basics)
 - [Task Summary](#task-summary)
 - [Output](#output)
 - [Solution](#solution)
+
+### Back to Excel Basics:
+- Click to go **[back to Excel Basics](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics)**
 
 ### Task Summary
 Adventure Works is preparing a series of advertising campaigns to be rolled out in several different regions.
