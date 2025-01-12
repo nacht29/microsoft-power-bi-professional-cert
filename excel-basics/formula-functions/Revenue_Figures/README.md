@@ -1,9 +1,13 @@
 # Case Study - Revenue Figures
 
 ## 📚 Table of Contents
+- [Back to Excel Basics](#back-to-excel-basics)
 - [Task Summary](#task-summary)
 - [Output](#output)
 - [Solution](#solution)
+
+### Back to Excel Basics:
+- Click to go **[back to Excel Basics](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics)**
 
 ### Task Summary
 - Aimee at Adventure Works has asked you to help her prepare an Excel file that she will present at a management team financial review meeting. - The worksheet tracks the items sold by one of Adventure Work’s divisions.
