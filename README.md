@@ -13,7 +13,9 @@ It also shows my effort in preparing for the [PL-300 Microsoft Certification Exa
 
 ## 📚 Table of Contents
 
-### [Excel Basics](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics)
+### **[Excel Basics](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics)**
 
 **Summary:**
 This directory contains the bsaic operations and also preparing data for analysis and visualisation using Microsoft Excel.
+
+### **[Excel Capstone Project - Executive Data](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics/formula-functions/Revenue_Figures)**
