@@ -14,3 +14,4 @@ This directory contains study notes and project showcases concerning the basics 
 - ### **[#Case Study - Monthly Sales Report](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics/formula-functions/Monthly_Sales)**
 - ### **[#Case Study - Reseller Information](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics/data-standardisation/Reseller_Information)**
 - ### **[#Case Study - Advertising Campaign Launch Date](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics/data-standardisation/Ad-Campaign_Launch-Dates)**
+- ### **[#Case Study - Contoso Bikes Order Summary](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics/logical-functions/Bike_Order_Summary)**
