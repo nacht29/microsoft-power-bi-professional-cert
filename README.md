@@ -18,7 +18,7 @@ It also shows my effort in preparing for the [PL-300 Microsoft Certification Exa
 **Summary:**
 This directory contains the projects and learning outcomes of utilising Microsoft Excel.
 
-### **[Excel Final Project - Executive Data](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics/formula-functions/Revenue_Figures)**
+### **[Excel Final Project - Executive Data](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/Excel-Final-Project)**
 
 **Summary**
-This directory showcases the final project for course 1 out of 8, that is preparing a quarter sales report in Excel.
+This directory is about preparing a quarter sales report in Microsoft Excel.
