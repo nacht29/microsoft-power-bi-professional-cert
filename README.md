@@ -13,7 +13,7 @@ It also shows my effort in preparing for the [PL-300 Microsoft Certification Exa
 
 ## 📚 Table of Contents
 
-### **[Excel Basics](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/excel-basics)**
+### **[Excel Basics](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/Excel)**
 
 **Summary:**
 This directory contains the projects and learning outcomes of utilising Microsoft Excel.
@@ -22,3 +22,8 @@ This directory contains the projects and learning outcomes of utilising Microsof
 
 **Summary**
 This directory is about preparing a quarter sales report in Microsoft Excel.
+
+### **[Power BI](https://github.com/nacht29/microsoft-power-bi-professional-cert/tree/main/Power-BI)**
+
+**Summary:**
+This directory contains the projects and learning outcomes of utilising Microsoft Power BI.
