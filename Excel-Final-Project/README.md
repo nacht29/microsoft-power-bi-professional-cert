@@ -95,4 +95,4 @@ This worksheet is called ```Summary``` and is in the workbook ```Quarter One Rep
 
 	- Use ```=(C6-B6)/B6``` on ```D5``` to calculate the yearly profit margin by using the concept ```(2023 total - 2022 total) / 2022 total```. Copy the formula to ```D12:D14``` to calculate the profit margin for the same month across 2022 and 2023.
 
-#### Feel free to download the Excel file, ````Quarter One Report```` for a better view of the end result.
+#### Feel free to download the Excel file, [````Quarter One Report.xlsx````](https://github.com/nacht29/microsoft-power-bi-professional-cert/blob/main/Excel-Final-Project) for a better view of the end result. The original data is provided in [```Original Workbook.xlsx```](https://github.com/nacht29/microsoft-power-bi-professional-cert/blob/main/Excel-Final-Project)
